@@ -1,0 +1,1 @@
+const [value, setValue] = useLocalStorage('key', 'initialValue')
